@@ -15,6 +15,12 @@ $ sudo npm install -g ionic cordova
 $ ionic start mySideMenu sidemenu
 ```
 
+To run the application, go to project folder and enter:
+
+`ionic serve --lab`
+
+Open `http://localhost:8100/ionic-lab`
+
 Then, to run it, cd into `mySideMenu` and run:
 
 ```bash
